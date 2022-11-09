@@ -4,7 +4,7 @@ I'm Jawad Doufare a Full Stack Web Developer.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jawad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-doufare-a240ba233/)[![Mail Badge](https://img.shields.io/badge/-doufarejawad23-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:doufarejawad23@gmail.com)[!
+[![Linkedin Badge](https://img.shields.io/badge/-Jawad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-doufare-a240ba233/)[![Mail Badge](https://img.shields.io/badge/-doufarejawad23-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:doufarejawad23@gmail.com)
 
 ### Most Used Technologies :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23FFE953.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![VueJs](https://img.shields.io/badge/vuejs-%23Clojure.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Mysql](https://img.shields.io/badge/mysql-%23DC322F.svg?style=for-the-badge&logo=mysql&logoColor=blue)
